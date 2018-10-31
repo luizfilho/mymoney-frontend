@@ -2,6 +2,9 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "engines":{
+    "npm":"5.7.1"
+  },
   "dependencies": {
     "admin-lte": "2.3.11",
     "axios": "0.18.0",
